@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Wildfire",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "street": "8251 Flying Cloud Dr",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.42679,
+            "latitude": 44.85494
+        },
+        "description": "Swanky American chain serving steak, chops & seafood, plus burgers, sides & cocktails.",
+        "imageName": "wildfire"
+    },
+    {
+        "name": "Punch Pizza",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "8353 Crystal View Rd",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.43342,
+            "latitude": 44.85376
+        },
+        "description": "Counter-serve pizzeria turning out wood-fired Neapolitan pies in a family-friendly space.",
+        "imageName": "punchpizza"
+    },
+    {
+        "name": "Kona Grill",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "street": "11997 Singletree Ln",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.42934,
+            "latitude": 44.85566
+        },
+        "description": "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails.",
+        "imageName": "konagrill"
+    },
+    {
+        "name": "Caribou Coffee",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "street": "16506 W 78th St",
+        "streetSecond": "11611 Leona Rd",
+        "coordinates": {
+            "longitude": -93.48721,
+            "latitude": 44.86385
+        },
+        "description": "Coffeehouse chain serving signature drinks, mochas & lattes, plus coffee & breakfast.",
+        "imageName": "carcoffee"
+    },
+    {
+        "name": "Cafe Zupas",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "street": "13000 Technology Dr",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.44206,
+            "latitude": 44.85943
+        },
+        "description": "Counter-serve local chain serving hearty soups, innovative salads & diverse sandwiches.",
+        "imageName": "cafezupas"
+    },
+    {
+        "name": "Crave",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "8251 Flying Cloud Dr",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.42668,
+            "latitude": 44.85463
+        },
+        "description": "Fine dining restaurant chain that serves up a vibrant and diverse menu, fresh sushi and an award-winning wine list in a chic and energetic setting.",
+        "imageName": "crave"
+    },
+    {
+        "name": "Tavern 4&5",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "16396 Wagner Way",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.48483,
+            "latitude": 44.86437
+        },
+        "description": "Tavern with a rotisserie & wood-fired oven offering contemporary pub grub plus local & craft brews.",
+        "imageName": "tavern"
+    },
+    {
+        "name": "Buca di Beppo",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "7711 Mitchell Rd",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.46724,
+            "latitude": 44.88956
+        },
+        "description": "Chain serving family-style Italian fare in a kitschy setting feauting red & white tablecloths.",
+        "imageName": "buca"
+    },
+    {
+        "name": "Old Chicago",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "12300 Singletree Ln",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.43841,
+            "latitude": 44.87233
+        },
+        "description": "Family-friendly chain restaurant featuring Italian entress along with a wine beer selection.",
+        "imageName": "oldchicago"
+    },
+    {
+        "name": "The Original Pancake House",
+        "category": "Food",
+        "city": "Eden Prairie",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "street": "549 Prairie Center Dr",
+        "streetSecond": "",
+        "coordinates": {
+            "longitude": -93.42600,
+            "latitude": 44.85030
+        },
+        "description": "Signature pancakes & other American breakfast classics all day in a casual setting.",
+        "imageName": "pancakes"
+    }
+]
