@@ -2,7 +2,6 @@
 
 This Restaurant Reviews app is a project that I worked on at the start of advanced iOS app development. I was having trouble deciding on an app to focus on at the beginning of advanced iOS developement, so I followed an apple developement tutorial to create the initial application and to act as a refresher for what I learned last year. 
 
-<img src= "tutorialPic.png width="200" height="140">
 ![tutorial](tutorialPic.png)
 
 
